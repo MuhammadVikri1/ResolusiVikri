@@ -1,5 +1,5 @@
 # ResolusiVikri
-Bismillah jadi Programmer ya
+Bismillah
 Bisa big data
 bisa riset
 berkarya
